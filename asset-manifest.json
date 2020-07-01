@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/image-editing-bootcamp/static/css/main.b4afa0d0.chunk.css",
+    "main.js": "/image-editing-bootcamp/static/js/main.a9faca3b.chunk.js",
+    "main.js.map": "/image-editing-bootcamp/static/js/main.a9faca3b.chunk.js.map",
+    "runtime-main.js": "/image-editing-bootcamp/static/js/runtime-main.4889bff6.js",
+    "runtime-main.js.map": "/image-editing-bootcamp/static/js/runtime-main.4889bff6.js.map",
+    "static/js/2.ae8a7c57.chunk.js": "/image-editing-bootcamp/static/js/2.ae8a7c57.chunk.js",
+    "static/js/2.ae8a7c57.chunk.js.map": "/image-editing-bootcamp/static/js/2.ae8a7c57.chunk.js.map",
+    "index.html": "/image-editing-bootcamp/index.html",
+    "precache-manifest.53ef2e86d1a961ea99f891d3caa3a0ba.js": "/image-editing-bootcamp/precache-manifest.53ef2e86d1a961ea99f891d3caa3a0ba.js",
+    "service-worker.js": "/image-editing-bootcamp/service-worker.js",
+    "static/css/main.b4afa0d0.chunk.css.map": "/image-editing-bootcamp/static/css/main.b4afa0d0.chunk.css.map",
+    "static/js/2.ae8a7c57.chunk.js.LICENSE.txt": "/image-editing-bootcamp/static/js/2.ae8a7c57.chunk.js.LICENSE.txt",
+    "static/media/search.svg": "/image-editing-bootcamp/static/media/search.de3fa3be.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4889bff6.js",
+    "static/js/2.ae8a7c57.chunk.js",
+    "static/css/main.b4afa0d0.chunk.css",
+    "static/js/main.a9faca3b.chunk.js"
+  ]
+}
